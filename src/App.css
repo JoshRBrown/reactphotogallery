@@ -1,0 +1,18 @@
+
+.body {
+  width: 500;
+  height: auto;
+}
+
+.photo {
+  width: 550px;
+}
+
+.voting {
+  display: flex;
+  margin-left: 20%;
+}
+
+.score {
+  margin-left: 23%;
+}
